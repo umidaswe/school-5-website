@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ 
+  <title>Mektebimiz Klassları</title>
+</head>
+
+<body>
+
+  <h1 class="our-classes">Mektebimiz Klassları</h1>
+
+  <p class="class-box"><b>1-Klass</b></p>
+  <p class="class-box"><b>2-Klass</b></p>
+  <p class="class-box"><b>3-Klass</b></p>
+  <p class="class-box"><b>4-Klass</b></p>
+  <p class="class-box"><b>5-Klass</b></p>
+  <p class="class-box"><b>6-Klass</b></p>
+  <p class="class-box"><b>7-Klass</b></p>
+  <p class="class-box"><b>8-Klass</b></p>
+  <p class="class-box"><b>9-Klass</b></p>
+  <p class="class-box"><b>10-Klass</b></p>
+  <p class="class-box"><b>11-Klass</b></p>
+
+</body>
+</html>
